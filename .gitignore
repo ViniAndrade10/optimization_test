@@ -195,3 +195,4 @@ cython_debug/
 
 *.png
 README2.md
+output*
